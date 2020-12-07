@@ -5,8 +5,14 @@ body {
     background-size: cover;
 }
 #introduction, .text-center {
-    color: #ffff99;
+    color: #ffff77;
 }
 #introduction {
     font-size: 1.1rem;
+}
+.name {
+    color: hsl(120, 99%, 72%, 0.6);
+    font-size: 3rem;
+    font-style: italic;
+    font-family: fantasy;
 }
