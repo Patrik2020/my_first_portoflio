@@ -1,0 +1,12 @@
+body {
+    background-image: url(assets/landscape.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#introduction, .text-center {
+    color: #ffff99;
+}
+#introduction {
+    font-size: 1.1rem;
+}
