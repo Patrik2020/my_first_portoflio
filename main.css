@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    font-family: sans-serif;
+    font-family: none, sans-serif;
 }
 #introduction, .text-center {
     color: #ffff77;
